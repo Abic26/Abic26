@@ -14,17 +14,13 @@ Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 25 años
 - Mi sitio wed **[<AbiCode/>](https://cv-vue-andres-f-lopez.vercel.app/)**
 
 ## Lenguajes que utilizo para crear ✨.
-<div align="center">
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![]( "")
-![]( "")
-![]( "")
-![]( "")
-![]( "")
-![]( "")
-![]( "")
-  
-</div>
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white "Css")
+![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
+![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
+![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
+![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
+![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
 
 
 ## Estadisticas 📊
