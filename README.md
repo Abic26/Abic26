@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hola, Bienvedio a mi pagina de Github👋
+# Hola, Bienvenido a mi pagina de Github👋
 
 ![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
 </div>
@@ -11,7 +11,7 @@ Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 25 años
 
 ## 📍 Encuentrame!
 
-- Mi sitio wed[<AbiCode/>](https://cv-vue-andres-f-lopez.vercel.app/)
+- Mi sitio wed ![<AbiCode/>](https://cv-vue-andres-f-lopez.vercel.app/ "<AbiCode/>")
 
 ## Lenguajes que utilizo para crear ✨.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
