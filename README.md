@@ -11,4 +11,7 @@ Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 25 años
 
 ## 📍 Encuentrame!
 
-- Mi sitio wed **[Abic_site](https://cv-vue-andres-f-lopez.vercel.app/)**
+- Mi sitio wed **[<AbiCode/>](https://cv-vue-andres-f-lopez.vercel.app/)**
+
+### Statistics 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abic26&layout=compact&show_icons=true&theme=holi&hide_border=true&border_radius=50)
