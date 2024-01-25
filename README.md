@@ -2,7 +2,7 @@
   
 # Hola, Bienvenido a mi pagina de Github👋
 
-![coding](https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif "Coding")
+![coding](https://avatars.githubusercontent.com/u/148375509?v=4)
 </div>
 
 ## Sobre mi
