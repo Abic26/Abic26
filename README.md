@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hola, Bienvenido a mi pagina de Github👋
+# Hola, Bienvenido a mi Github👋
 
 ![coding](https://avatars.githubusercontent.com/u/148375509?v=4)
 </div>
