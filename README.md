@@ -2,7 +2,7 @@
   
 # Hola, Bienvenido a mi Github👋
 
-<img src="https://avatars.githubusercontent.com/u/148375509?v=4" style="border-radius: 50%; width: 150px; height: 150px;">
+![coding](https://avatars.githubusercontent.com/u/148375509?v=4)
 </div>
 
 
