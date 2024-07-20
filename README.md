@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 25 años soy apasionado por la programación, me encanta codificar y solucionar problemas, Ahora estoy preparandome como desarrollador FullStack....
+Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 26 años soy apasionado por la programación, me encanta codificar y solucionar problemas, es un gusto saludarte 🤙
 
 ## 📍 Encuentrame!
 
