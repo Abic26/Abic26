@@ -11,7 +11,7 @@ Hola, mi nombre es Andres Felipe Lopez un desarrollador Frontend, tengo 26 años
 
 ## Experiencia laboral
 
-En mi trayectoria como desarrollador, cuento con 2 años de experiencia en el mundo TI, codificando soluciones utilizando tecnologías de vanguardia que me permitieron crear aplicaciones eficientes y escalables. He trabajado con diversas tecnologías, desarrollando tanto el front-end como el back-end de aplicaciones y automatizaciones web. Además, he colaborado estrechamente con equipos multifuncionales con metodologia scrum, contribuyendo a la mejora continua de productos y optimizando la experiencia del usuario.
+En mi trayectoria como desarrollador, cuento con 2 años de experiencia en el mundo TI, codificando soluciones utilizando tecnologías a la vanguardia que me permiten crear aplicaciones eficientes y escalables. He trabajado con diversas tecnologías, desarrollando tanto el front-end como el back-end de aplicaciones y automatizaciones web. Además, he colaborado estrechamente con equipos multifuncionales con metodologia scrum, contribuyendo a la mejora continua de productos y optimizando la experiencia del usuario.
 
 ## 📍 Encuentrame!
 
