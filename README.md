@@ -34,6 +34,7 @@ En mi trayectoria como desarrollador, cuento con 2 años de experiencia en el mu
 ![Python](https://img.shields.io/badge/python-1E90FF?style=for-the-badge&logo=python&logoColor=white%20%22python%22)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "Php")
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white "Laravel")
+![Dbeaver](https://img.shields.io/badge/dbeaver-fff?style=for-the-badge&logo=dbeaver&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/Socket.io-fff?style=for-the-badge&logo=socket.io&logoColor=black)
 ### Deploy ✈️
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white "Vercel")
